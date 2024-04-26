@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GNSSLogger.iml" filepath="$PROJECT_DIR$/GNSSLogger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GNSSLogger.iml" filepath="$PROJECT_DIR$/.idea/modules/GNSSLogger.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GNSSLogger.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GNSSLogger.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GNSSLogger.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GNSSLogger.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GNSSLogger.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GNSSLogger.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GNSSLogger.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GNSSLogger.app.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pseudorange/GNSSLogger.pseudorange.iml" filepath="$PROJECT_DIR$/.idea/modules/pseudorange/GNSSLogger.pseudorange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pseudorange/GNSSLogger.pseudorange.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/pseudorange/GNSSLogger.pseudorange.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pseudorange/GNSSLogger.pseudorange.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pseudorange/GNSSLogger.pseudorange.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pseudorange/GNSSLogger.pseudorange.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/pseudorange/GNSSLogger.pseudorange.unitTest.iml" />
     </modules>
   </component>
 </project>
